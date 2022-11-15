@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niloy178
+- 👋 Hi, I’m Nuruzzaman Islam
 - 👀 I’m interested in Compitive programming 
 - 🌱 I’m currently learning data structure and algorithm.
 - 📫 How to reach me Nuruzzamanislam.official@gmail.com
