@@ -2,7 +2,8 @@
 Hi, I'm **Nuruzzaman Islam**, a Urban & Regional Planning student at **Rajshahi University Of Engineering And Technology** passionate about **GIS, Remote Sensing, and Geospatial Machine Learning**.  
 I work with spatial data, build maps, and apply programming to solve real-world environmental and urban challenges.  
 
-![typewriter (1)](https://github.com/user-attachments/assets/b44549e9-fd29-4f56-8d70-0e2a2fec1e12)
+![typewriter (2)](https://github.com/user-attachments/assets/098ebfa5-0a23-4115-a6e0-efaccc0e777f)
+
 
 
 ## 🔧 Tools & Technologies  
