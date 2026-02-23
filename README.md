@@ -1,75 +1,21 @@
-# 🌍 Nuruzzaman Islam 
-Hi, I'm **Nuruzzaman Islam**, a Urban & Regional Planning student at **Rajshahi University Of Engineering And Technology** passionate about **GIS, Remote Sensing, and Geospatial Machine Learning**.  
-I work with spatial data, build maps, and apply programming to solve real-world environmental and urban challenges.  
+# 💫 About Me:
+🌱 Currently learning: Web GIS (Leaflet, React, Django, PostgreSQL/PostGIS), scalable backend architecture, ArcGIS Pro and Google Earth Engine.<br><br>🤝 Looking to collaborate on: Web GIS apps and spatial data projects.<br><br>🆘 Looking for help with: Mentorship in Web GIS and Spatial Data Science, especially real-world projects and best practices.
 
 
-![typewriter (3)](https://github.com/user-attachments/assets/aa9fdb41-cbc3-4612-ad2c-47cccdf2cacd)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/niloy754) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/niloyxx123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nuruzzamanislam) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Niloy754) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Niloy_178) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nuruzzamanislam.official@gmail.com) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Niloy178&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Niloy178&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niloy178&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-## 🔧 Tools & Technologies  
-
-### 🛰️ GIS & Remote Sensing  
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)  
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)  
-![Google Earth Pro](https://img.shields.io/badge/Google%20Earth%20Pro-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)  
-![ArcMap](https://img.shields.io/badge/ArcMap-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)  
-![ArcScene](https://img.shields.io/badge/ArcScene-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)  
-
-### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
-### 🌐 Web Development & CMS  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
-
-### 📊 Data Science & Geospatial Python  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![GeoPandas](https://img.shields.io/badge/GeoPandas-0E4C92?style=for-the-badge&logo=python&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)  
-![Shapely](https://img.shields.io/badge/Shapely-0E4C92?style=for-the-badge&logo=python&logoColor=white)  
-
-### 🛠 Research & Others  
-![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Niloy178&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Niloy178&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📌 Featured Projects  
-
-- 🌊 [** NDTI Map of the Sundarbans (January 2025)**](https://www.linkedin.com/posts/nuruzzamanislam_ndti-map-of-the-sundarbans-january-2025-activity-7368963276531003394-xfUM?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMNrUAB08iX8FKHnhW0rPHMFrZBuTF2IHA)
-- 🗺️ [**LULC, NDWI & Water Body Map of Paba Upazila (Apr 2025)**](https://www.linkedin.com/posts/sercbd_spaceexploration-remotesensing-naturalresources-activity-7368855321743683586-OZS_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMNrUAB08iX8FKHnhW0rPHMFrZBuTF2IHA)  
-- 🌊 [**Watershed Analysis of Nilphamari District**](https://www.linkedin.com/posts/nuruzzamanislam_i-recently-worked-on-a-watershed-analysis-activity-7363857291017670656-onb6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMNrUAB08iX8FKHnhW0rPHMFrZBuTF2IHA)  
-- 🏙️ [**Supervised LULC of Barishal – 2025**  ](https://www.linkedin.com/posts/nuruzzamanislam_supervised-land-use-land-cover-of-activity-7361446648608108546-L9-x?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMNrUAB08iX8FKHnhW0rPHMFrZBuTF2IHA)
-- 🌿 [**NDVI Map of Kurigram District – 2025**](https://www.linkedin.com/posts/nuruzzamanislam_ndvi-map-of-kurigram-district-for-the-activity-7359459992447447041-mhss?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMNrUAB08iX8FKHnhW0rPHMFrZBuTF2IHA)  
-- 🌧️ [**Flood Animation of Kurigram District (ArcMap & ArcScene)**](https://www.linkedin.com/posts/nuruzzamanislam_as-part-of-my-practical-gis-learning-i-developed-activity-7357458467177025536-VMbp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMNrUAB08iX8FKHnhW0rPHMFrZBuTF2IHA)  
-- 🌡️ [**Annual Average Temperature Map of Bangladesh – 2024**  ](https://www.linkedin.com/posts/nuruzzamanislam_annual-average-temperature-map-of-bangladesh-activity-7350777618025041945-cXU8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADMNrUAB08iX8FKHnhW0rPHMFrZBuTF2IHA)
-
----
-
-## 🏆 Competitive Programming  
-
-- Solved **300+ programming problems** across different online judges.  
-- Strong foundation in **algorithms and data structures**.  
-
----
-
-## 🎯 Current Focus  
-
-- Learning **Geospatial Python** (Pandas, GeoPandas, Matplotlib, Shapely)  
-- Exploring **Machine Learning applications in GIS & Remote Sensing**  
-- Goal: Become a **Professional Geospatial ML Expert**  
-
----
-
-## 📫 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nuruzzamanislam/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Niloy178/)  
-
----
-✨ *"Turning geospatial data into meaningful insights."*  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
