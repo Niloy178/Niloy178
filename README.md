@@ -1,6 +1,7 @@
 # 💫 About Me:
  *Currently learning:* Web GIS (Leaflet, React, Django, PostgreSQL/PostGIS), scalable backend architecture, ArcGIS Pro and Google Earth Engine.<br><br> *Looking to collaborate on:* Web GIS apps and spatial data projects.<br><br> *Looking for help with:* Mentorship in Web GIS and Spatial Data Science, especially real-world projects and best practices.
 
+![Profile Views](https://komarev.com/ghpvc/?username=Niloy178&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/niloyxx123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nuruzzamanislam) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/niloy754) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/niloy_178) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nuruzzamanislam.official@gmail.com) 
