@@ -1,5 +1,15 @@
 # 💫 About Me:
- *Currently learning:* Web GIS (Leaflet, React, Django, PostgreSQL/PostGIS), scalable backend architecture, ArcGIS Pro and Google Earth Engine.<br><br> *Looking to collaborate on:* Web GIS apps and spatial data projects.<br><br> *Looking for help with:* Mentorship in Web GIS and Spatial Data Science, especially real-world projects and best practices.
+I’m **Nuruzzaman Islam**, currently studying **Urban and Regional Planning at RUET (Rajshahi University of Engineering & Technology)**.
+
+I’m especially interested in Web GIS and spatial data systems that solve real-world problems and support smarter decision-making.
+
+**Currently learning:** Web GIS (Leaflet, React, Django, PostgreSQL/PostGIS), scalable backend architecture, ArcGIS Pro, and Google Earth Engine.
+
+**Looking to collaborate on:** Web GIS applications and spatial data projects.
+
+**Looking for help with:** Mentorship in Web GIS and Spatial Data Science, particularly real-world projects, system design, and best practices.
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Niloy178&label=Profile%20views&color=0e75b6&style=flat)
 
