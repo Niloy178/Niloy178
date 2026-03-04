@@ -3,7 +3,7 @@ I’m **Nuruzzaman Islam**, currently studying **Urban and Regional Planning at 
 
 I’m interested in Full Stack Web dev, Web GIS and spatial data systems that solve real-world problems and support smarter decision-making.
 
-**Currently learning:** Full Stack Web dev (Leaflet, React, Django, PostgreSQL/PostGIS), scalable backend architecture, ArcGIS Pro, and Google Earth Engine.
+**Currently learning:** Geospatial Data Science(Geopandas, Rasterio, Leafmap, Geemap), Full Stack Web dev (Leaflet, React, Django, PostgreSQL/PostGIS), scalable backend architecture, ArcGIS Pro, and Google Earth Engine.
 
 **Looking to collaborate on:** Web GIS applications and spatial data projects.
 
